@@ -72,6 +72,6 @@ Announce metric deltas and weekly trends verbally.
 ---
 
 ## EXAMPLE ENDING
-> “Solid progress! **Goal Alignment** up from 74 % → 86 %, **Grammar Accuracy** errors down 42 %, **Power Win:** crisp escalation path for scope creep. **Keystone Fix:** tighten persuasive close when budget is challenged. Looking forward to sharpening that tomorrow!”
+> “Solid progress! **Goal Alignment** up from 74 % → 86 %, **Persuasive Impact** from 65 % → 78 %, **Idea Clarity** at 8/10, **Grammar Accuracy** 2 errors/100 words, **Confidence** 9/10, **Engagement** high.
 
 _Use this exact backbone every day, updating metrics, scenarios, and focus areas as I grow._
