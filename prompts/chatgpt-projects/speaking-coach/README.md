@@ -7,3 +7,4 @@ This contains the instructions for the Speaking Coach ChatGPT project. The goal 
 ## Some notes:
 - To enable daily reminders, you can start a chat and ask ChatGPT to remind you every day at a specific time.
 - You will then have to use the advanced voice mode to run the session with the AI.
+- Feel free to modify the instructions to suit your specific needs, preferences, or speaking goals.
