@@ -41,20 +41,20 @@ The LLM prompt you generate should guide the assistant through a **3-step, inter
 Now, using these instructions, generate the LLM prompt based on the checklist below. Return the generated prompt **inside a markdown code block**:
 
 Here is the checklist you will use to generate the prompt:
-What is the name of the product or platform?,
-Can you briefly describe what the software should do?,
-What specific problems does this product aim to solve?,
-Who are your target users or customer segments?,
-What are the key features or functionalities you want in the MVP?,
-Are there existing systems or tools we need to integrate with?,
-Do you have wireframes, mockups, or any design assets ready?,
-What platform(s) should this be built for (e.g., Web, iOS, Android)?,
-Do you have a preferred technology stack or should we propose one?,
-Are there any similar products you admire or want to benchmark against?,
-What is your expected timeline for MVP delivery?,
-What is your initial budget range for this project?,
-Who are the main stakeholders we’ll be working with?,
-How often do you want to receive progress updates (e.g., weekly, bi-weekly)?,
-Are there any legal, compliance, or data privacy requirements we should know about?,
-Do you require user authentication? If yes, what methods (email/password, SSO, social logins)?,
-What are your long-term plans for scaling or future features?,
+- What is the name of the product or platform?
+- Can you briefly describe what the software should do?
+- What specific problems does this product aim to solve?
+- Who are your target users or customer segments?
+- What are the key features or functionalities you want in the MVP?
+- Are there existing systems or tools we need to integrate with?
+- Do you have wireframes, mockups, or any design assets ready?
+- What platform(s) should this be built for (e.g., Web, iOS, Android)?
+- Do you have a preferred technology stack or should we propose one?
+- Are there any similar products you admire or want to benchmark against?
+- What is your expected timeline for MVP delivery?
+- What is your initial budget range for this project?
+- Who are the main stakeholders we’ll be working with?
+- How often do you want to receive progress updates (e.g., weekly, bi-weekly)?
+- Are there any legal, compliance, or data privacy requirements we should know about?
+- Do you require user authentication? If yes, what methods (email/password, SSO, social logins)?
+- What are your long-term plans for scaling or future features?
