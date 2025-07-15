@@ -2,9 +2,9 @@
 This config file defines the action that the custom GPT will use to interact with the Neo4j database through HTTP connection.
 
 ## Authentication
-- Authentication Type: API Key
-- API Key: <base64-encoded "username:password">
-- Auth Type: Basic
+- Authentication Type: `API Key`
+- API Key: `<base64-encoded "username:password">`
+- Auth Type: `Basic`
 
 ## Schema
 Note: Replace `url` with the actual endpoint URL of your Neo4j database.
