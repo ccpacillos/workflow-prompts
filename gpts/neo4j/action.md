@@ -15,7 +15,7 @@ info:
   title: Neo4j Cypher Runner
   version: 1.0.0
 servers:
-  - url: https://b0021ed86394.ngrok-free.app/db/neo4j/tx/commit
+  - url: https://your.neo4j.url/db/neo4j/tx/commit
 paths:
   /:
     post:
